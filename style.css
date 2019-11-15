@@ -1,0 +1,7 @@
+div.card:hover{
+    border: 1px solid #777;
+}
+div.card img {
+    width: 100%;
+    height: auto;
+}
